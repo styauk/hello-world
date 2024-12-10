@@ -63,11 +63,27 @@
         <mxCell id="YTLM1UgtK1OACf1yfTNr-16" value="Release customer order" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="167" y="630" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="irxJISRJAq3c94Vwhtzy-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YTLM1UgtK1OACf1yfTNr-18" target="YTLM1UgtK1OACf1yfTNr-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irxJISRJAq3c94Vwhtzy-2" value="Exchange rafts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="irxJISRJAq3c94Vwhtzy-0">
+          <mxGeometry x="0.203" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YTLM1UgtK1OACf1yfTNr-18" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Normal REN process today with WADACO improvement&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=11;rounded=1;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="367" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YTLM1UgtK1OACf1yfTNr-20" value="Returned Raft" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="irxJISRJAq3c94Vwhtzy-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;resizable=0;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;endArrow=block;endFill=0;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YTLM1UgtK1OACf1yfTNr-20" target="irxJISRJAq3c94Vwhtzy-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YTLM1UgtK1OACf1yfTNr-20" value="Returned Rafts" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="605" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="irxJISRJAq3c94Vwhtzy-1" value="Create/Copy work order under WIP package, assign barcode id" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;resizable=0;fillColor=none;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="605" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
